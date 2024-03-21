@@ -1,4 +1,4 @@
-# Journal Website
+# The Daily Journal
 
 ## About the Project
 
