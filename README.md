@@ -35,9 +35,10 @@ npm install
 mongoose.connect("mongodb://localhost:27017/newsArticles");
 And replace it with your MongoDB server connection string. If you are using MongoDB locally, you might not need to change this line.
 
-Running the Project
+### Run The Project
 Start the application by running:
 node app.js
+
 Or, if you are using nodemon for automatic reloading:
 nodemon app.js
 Open your web browser and navigate to http://localhost:3000 to view the application.
